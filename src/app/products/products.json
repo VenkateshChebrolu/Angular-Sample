@@ -1,0 +1,20 @@
+[
+            {
+                "ProductId":1,
+                "ProductName":"Vicks",
+                "ProductCode":"V-K",
+                "Available":"Yes",
+                "Price": 10,
+                "Rating":3.5,
+                "ImageURL": "https://azcdn.genesis.pgsitecore.com/en-in/-/media/Vicks_IN/Images/Logos/Desktop/logo-vicks.png?h=133&la=en-IN&w=145&v=1-201705240710"
+            },
+            {
+                "ProductId":2,
+                "ProductName":"Boost",
+                "ProductCode":"B-T",
+                "Available":"Yes",
+                "Price": 20,
+                "Rating":4.5,
+                "ImageURL": "https://i-cf3.gskstatic.com/content/dam/cf-consumer-healthcare/boost/en_IN/products/Boost_Products_3Pocket.png?auto=format"
+            }
+]    
