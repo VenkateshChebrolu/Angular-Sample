@@ -50,7 +50,6 @@ export class productListComponent implements OnInit{
          },
          error => this.errormessage = <any>error
         );
-        
         console.log('NgOnit fired');
     }
 

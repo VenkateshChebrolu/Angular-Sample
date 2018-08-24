@@ -32,7 +32,6 @@ export class productservice{
             errormessage = `${err.status}, ${err.message}`
         }
         console.error(errormessage);
-        return throwError(errormessage);
-        
+        return throwError(errormessage);  
     }
 }
